@@ -1,0 +1,16 @@
+TransactionID,Timestamp,Amount,Location,MerchantID,Device
+1,2025-04-15 10:15:00,50,New York,1001,Mobile
+2,2025-04-15 10:17:00,20,Los Angeles,1002,Desktop
+3,2025-04-15 10:20:00,75,Chicago,1003,Mobile
+4,2025-04-15 10:25:00,1000,New York,1001,Desktop
+5,2025-04-15 10:30:00,35,Chicago,1002,Tablet
+6,2025-04-15 10:35:00,60,Los Angeles,1003,Mobile
+7,2025-04-15 10:40:00,45,New York,1001,Desktop
+8,2025-04-15 10:45:00,30,Chicago,1002,Tablet
+9,2025-04-15 10:50:00,85,Los Angeles,1003,Mobile
+10,2025-04-15 10:55:00,500,New York,1002,Desktop
+11,2025-04-15 11:00:00,40,Chicago,1001,Tablet
+12,2025-04-15 11:05:00,55,Los Angeles,1003,Mobile
+13,2025-04-15 11:10:00,90,New York,1002,Desktop
+14,2025-04-15 11:15:00,100,Chicago,1001,Tablet
+15,2025-04-15 11:20:00,2000,Los Angeles,1003,Mobile
